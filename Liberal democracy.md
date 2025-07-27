@@ -6,4 +6,4 @@ Is importan to think that democracy is not the will of the majority. A liberal d
 
 And to be able to call something a liberal democracy, is important that the three of them are being followed. 
 
-[source](https://www.youtube.com/watch?v=5fLIb8KXmDw)
+- [source](https://www.youtube.com/watch?v=5fLIb8KXmDw)
