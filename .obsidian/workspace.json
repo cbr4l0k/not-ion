@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "1a99dcb1fe54ab40",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e2ab0a38063b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af3d77e2eb50ec91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a009825f0bcdc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc69158787cc16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75ae4d50c4bc760",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a23b7ddaa101c288",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0631c9e7036693a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e6973e40b93374f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f6e044adfa4d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384f90ee53b68a86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information_Overflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information_Overflow"
+            }
+          },
+          {
+            "id": "ea2825f51c6a25a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Todo suena igual.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Todo suena igual"
+            }
+          },
+          {
+            "id": "6373c2806689c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1c9d7f625a65996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5bf2815a9873969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c76ff15ddbb0fad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Information_Overflow.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.223958333333333,
+                  "repelStrength": 6.875,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.16292645785610807,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Information_Overflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "af3d77e2eb50ec91",
+  "lastOpenFiles": [
+    "Excalidraw/MaxiCassaBoard.excalidraw.md",
+    "Cristianismo Ortodoxo.md",
+    "Crecimiento Cancerígeno.md",
+    "Devoción.md",
+    "Noches Blancas.md",
+    "Economía Colaborativa.md",
+    "Los músicos no necesitan palabras.md",
+    "Voto.md",
+    "Budismo.md",
+    "Excalidraw/Drawing 2025-07-25 13.14.23.excalidraw.md",
+    "Sabiduria De Tres Tipos.md",
+    "Concordia.md",
+    "Untitled.md",
+    "Interoperabilidad.md",
+    "Responsabilidad en la comuniacion virtual.md",
+    "Human Rights.md",
+    "GO-OP-PR-01 Atención de Reclamos Maxicassa_V4.png",
+    "Fiódor Dostoyevski.md",
+    "La Gracia de Dios.md",
+    "Internet.md",
+    "Situationship.md",
+    "Information_Overflow.md",
+    "Linea recta.md",
+    "Libertad como sanación y capacidad de mejorar.md",
+    "Milan Kundera.md",
+    "Evolución.md",
+    "Soledad.md",
+    "Pasted Image 20250715153203_030.png",
+    "drawings",
+    "Excalidraw",
+    "Dumbscrolling.md~"
+  ]
+}
