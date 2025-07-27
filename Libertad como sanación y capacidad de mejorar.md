@@ -1,0 +1,1 @@
+Dentro de la fe en [[Cristianismo Ortodoxo|iglesia ortodoxa]] , está el concepto de que la libertad viene de estar herido, y que luego, como proceso de recuperación, se presenta esta libertad como acto para alejare del [[El Bien y El Mal|camino del mal]]  y tomar [[La Gracia de Dios|la gracia de dios]]. 

@@ -1,0 +1,2 @@
+Puede ser el efecto [[cámara de eco]], pero aumentado, el hecho de que ahora una cantidad absurda del contenido en [[internet]] esta siendo generado por [[LLM|LLMs]] esta dando la sensación de que todo que todo lo hace una misma entidad.
+Todo se siente genérico, sin inspiración, y lo peor de todo es que por alguna razón a nadie le importa.
