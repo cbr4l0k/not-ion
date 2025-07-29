@@ -4,41 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2173a1ec5ecacac5",
+        "id": "05cfd4db20319270",
         "type": "tabs",
         "children": [
           {
-            "id": "8ead2211f20056e4",
+            "id": "d356e9a626bed5f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Milan Kundera.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-07-29 16.49.30.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Milan Kundera"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3c66e72aa0ce3561",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d7e13cf949c90d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soledad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soledad"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-29 16.49.30.excalidraw"
             }
           }
         ]
@@ -236,16 +214,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1d7e13cf949c90d9",
+  "active": "d356e9a626bed5f8",
   "lastOpenFiles": [
-    "Milan Kundera.md",
+    "Excalidraw/Drawing 2025-07-29 16.49.30.excalidraw.md",
+    "Que asco LinkedIn.md",
+    "Lo insoportable de una persona feliz.md",
+    "Fiódor Dostoyevski.md",
+    "Cristianismo Ortodoxo.md",
     "Soledad.md",
+    "Milan Kundera.md",
     "Will of the People.md",
     "Responsabilidad en la comuniacion virtual.md",
     "La muerte como acercamiento a la vida.md",
     "La Insoportable Levedad del Ser.md",
     "Excalidraw/MaxiCassaBoard.excalidraw.md",
-    "Cristianismo Ortodoxo.md",
     "Crecimiento Cancerígeno.md",
     "Devoción.md",
     "Noches Blancas.md",
@@ -260,11 +242,7 @@
     "Interoperabilidad.md",
     "Human Rights.md",
     "GO-OP-PR-01 Atención de Reclamos Maxicassa_V4.png",
-    "Fiódor Dostoyevski.md",
     "La Gracia de Dios.md",
-    "Internet.md",
-    "Situationship.md",
-    "Information_Overflow.md",
     "Pasted Image 20250715153203_030.png",
     "drawings",
     "Excalidraw",
