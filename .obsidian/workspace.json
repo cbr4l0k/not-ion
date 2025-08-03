@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4031708f1d0679",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c7f9f7b515f50e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienestar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienestar"
-            }
-          }
-        ]
-      },
-      {
         "id": "fdfafa02348c7cf0",
         "type": "tabs",
         "children": [
@@ -33,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Los músicos no necesitan palabras.md",
+                "file": "Dumbposting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Los músicos no necesitan palabras"
+              "title": "Dumbposting"
+            }
+          }
+        ]
+      },
+      {
+        "id": "147ca730a5883047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48fddab6bc6f213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devoción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devoción"
             }
           }
         ]
@@ -236,10 +236,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ff52150654633cc5",
+  "active": "e48fddab6bc6f213",
   "lastOpenFiles": [
-    "Bienestar.md",
+    "Dumbposting.md",
+    "Devoción.md",
     "Los músicos no necesitan palabras.md",
+    "Bienestar.md",
     "Noches Blancas.md",
     "Que asco LinkedIn.md",
     "El_Whatever_es_Kitsch.md",
@@ -262,8 +264,6 @@
     "Will of the People.md",
     "Responsabilidad en la comuniacion virtual.md",
     "La muerte como acercamiento a la vida.md",
-    "La Insoportable Levedad del Ser.md",
-    "Devoción.md",
     "GO-OP-PR-01 Atención de Reclamos Maxicassa_V4.png",
     "Pasted Image 20250715153203_030.png",
     "drawings",
