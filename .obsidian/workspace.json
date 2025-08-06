@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "27b6bf079429da69",
+        "id": "4a6d009205dc9791",
         "type": "tabs",
         "children": [
           {
-            "id": "4a95fc285bde82f9",
+            "id": "ef6de0df8bb6f358",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/working_dashboard_1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "working_dashboard_1.excalidraw"
+            }
+          },
+          {
+            "id": "04e6d38bd5f745a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MaxiCassaBoard.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MaxiCassaBoard.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +227,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4a95fc285bde82f9",
+  "active": "04e6d38bd5f745a7",
   "lastOpenFiles": [
+    "Excalidraw/working_dashboard_1.excalidraw.md",
+    "assets/files/modelo_econonm_cliente_interno_y_externo_sybil_sas.pdf",
+    "Excalidraw/Drawing 2025-07-16 18.01.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-29 16.49.30.excalidraw.md",
+    "Excalidraw/modelo_ensenansa.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-06 09.33.01.excalidraw.md",
+    "assets/files",
+    "assets",
+    "Untitled.md",
+    "Rule of Law.md",
+    "Lo abrumador de la felicidad.md",
+    "La muerte como acercamiento a la vida.md",
+    "No  todo el mundo va pal mismo lado.md",
     "Excalidraw/academia_med.excalidraw.md",
     "Excalidraw/MaxiCassaBoard.excalidraw.md",
-    "Untitled.md",
     "Situationship.md",
     "Simulación.md",
     "Fiódor Dostoyevski.md",
@@ -231,15 +258,6 @@
     "Linea recta.md",
     "Whatever.md",
     "Empatia.md",
-    "Cámara de Eco.md",
-    "Excalidraw/Drawing 2025-07-15 15.20.12.excalidraw.md",
-    "Crecimiento Cancerígeno.md",
-    "Individualismo.md",
-    "Todo va muy rápido.md",
-    "El Bien y El Mal.md",
-    "Excalidraw/Drawing 2025-07-29 16.49.30.excalidraw.md",
-    "Lo insoportable de una persona feliz.md",
-    "Soledad.md",
     "GO-OP-PR-01 Atención de Reclamos Maxicassa_V4.png",
     "Pasted Image 20250715153203_030.png",
     "drawings",
