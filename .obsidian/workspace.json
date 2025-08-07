@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6d009205dc9791",
-        "type": "tabs",
-        "dimension": 39.67391304347826,
-        "children": [
-          {
-            "id": "04e6d38bd5f745a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interoperabilidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interoperabilidad"
-            }
-          }
-        ]
-      },
-      {
         "id": "cbe6ce2e8e59d01d",
         "type": "tabs",
-        "dimension": 60.32608695652174,
         "children": [
           {
             "id": "a33febfb56c8018b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MaxiCassaBoard.excalidraw.md"
+                "file": "Los músicos no necesitan palabras.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MaxiCassaBoard.excalidraw"
+              "icon": "lucide-file",
+              "title": "Los músicos no necesitan palabras"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8c029729ddace2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ffd4262b1f9deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo más Grande.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algo más Grande"
             }
           }
         ]
@@ -236,9 +236,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "04e6d38bd5f745a7",
+  "active": "84ffd4262b1f9deb",
   "lastOpenFiles": [
+    "Los músicos no necesitan palabras.md",
+    "Algo más Grande.md",
     "Excalidraw/MaxiCassaBoard.excalidraw.md",
+    "Interoperabilidad.md",
     "Excalidraw/working_dashboard_1.excalidraw.md",
     "assets/files/modelo_econonm_cliente_interno_y_externo_sybil_sas.pdf",
     "Excalidraw/Drawing 2025-07-16 18.01.59.excalidraw.md",
@@ -258,15 +261,12 @@
     "Fiódor Dostoyevski.md",
     "Devoción.md",
     "Dumbposting.md",
-    "Los músicos no necesitan palabras.md",
     "Bienestar.md",
     "Noches Blancas.md",
     "Que asco LinkedIn.md",
     "El_Whatever_es_Kitsch.md",
     "Cristianismo Ortodoxo.md",
     "Linea recta.md",
-    "Whatever.md",
-    "Empatia.md",
     "GO-OP-PR-01 Atención de Reclamos Maxicassa_V4.png",
     "Pasted Image 20250715153203_030.png",
     "drawings",
