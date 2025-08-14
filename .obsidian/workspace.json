@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e49d4b4626880cba",
+        "id": "312f96485ba1d2ac",
         "type": "tabs",
         "children": [
           {
-            "id": "4465083437fd1dec",
+            "id": "d134f665fa92ccc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "En_la_colonia_penitenciaria.md",
+                "file": "La Gracia de Dios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "En_la_colonia_penitenciaria"
+              "title": "La Gracia de Dios"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c51484a23357b5c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db9b3dcaa6e16fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura Rizomática.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructura Rizomática"
             }
           }
         ]
@@ -216,14 +236,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4465083437fd1dec",
+  "active": "7db9b3dcaa6e16fc",
   "lastOpenFiles": [
+    "La Gracia de Dios.md",
+    "Estructura Rizomática.md",
+    "Dumbscrolling.md",
     "En_la_colonia_penitenciaria.md",
     "Comunidad_Empresarial.md",
     "En la colonia penitenciaria.md",
     "La muerte como acercamiento a la vida.md",
     "La Insoportable Levedad del Ser.md",
-    "Estructura Rizomática.md",
     "Dinámicas Colectivas.md",
     "Cristianismo Ortodoxo.md",
     "Todo suena igual.md",
@@ -240,10 +262,8 @@
     "Voto.md",
     "Excalidraw/MaxiCassaBoard.excalidraw.md",
     "Excalidraw/modelo_ensenansa.excalidraw.md",
-    "La Gracia de Dios.md",
     "Algo más Grande.md",
     "Los músicos no necesitan palabras.md",
-    "Interoperabilidad.md",
     "assets/files/modelo_econonm_cliente_interno_y_externo_sybil_sas.pdf",
     "assets/files",
     "assets",
