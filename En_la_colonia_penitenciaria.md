@@ -15,4 +15,19 @@ Pero al analizar desde la contemporaneidad el deseo de seguir utilizando un arte
 
 ---
 
-Tras la muerte del viejo comandante la maquina sigue en fucionamiento. El condenado espera su ejecución, el nuevo comandante y sus mujeres buscan acabar con ese legado por medio de un respetado explorador.  Y el oficial se jacta de la calidad de su herencia. 
+Tras la muerte del viejo comandante la maquina sigue en funcionamiento, el condenado espera su ejecución, el nuevo comandante y sus mujeres buscan acabar con ese legado por medio de un respetado explorador,  el oficial se jacta de la calidad de su herencia y lamenta su deterioro, y el explorador observa, escucha, y de vez en cuando pregunta. 
+
+En *La Colonia Penitenciaria* Kafka plantea un sistema de relaciones tan complejo como la máquina en sí, sistema que originalmente, por razones de la época y las tendencias narrativas de Kafka, se utilizó para criticar los sistemas judiciales autoritarios, donde la ley y su aplicación se funden en un aparato arbitrario e inhumano, y revelar la complicidad y degradación de la dignidad humana cuando aquellos que podrían intervenir no lo hacen, prefieren observar, escuchar, y de vez en cuando, hacer preguntas.
+
+Esta imagen sigue viva en los regímenes autoritarios actuales. Sin embargo, si optamos por por analizar esta misma historia bajo el lente de la contemporaneidad, la tensión de estos actores permite la generación de un dialogo sobre como se construyen, se mantienen, y se transforman las tradiciones, la cultura. Quiza lo que importa no es solo quien tiene el poder para detener la máquina, sino el significado de que esta siga en funcionamiento cuando su proposito original ya se ha desvanecido. 
+
+
+---
+
+# Intro
+
+Tras la muerte del viejo comandante, la máquina sigue en funcionamiento. El condenado espera su ejecución; el nuevo comandtante y sus mujeres intentan acabar con ese legado a través de un explorador respetado; el oficial se jacta de la calidad de su herencia y lamenta su deterioro. El explorador observa, escucha, y de vez en cuando, pergunta. 
+
+En *La colonia penitenciaria*, Kafka plantea un sistema de relaciones tan complejo como la maquina en sí. La escencia de esta obra —acorde a las tendencias narrativas de su tiempo— se ha entendido como una crítica a los sistemas judiciales autoritarios, donde la ley y su aplicación se funden en un aparato arbitrario e inhumano. Y además revela la complicidad y la degradación de la dignidad humana cuando aquellos que podrían intervenir eligen no hacerlo: prefieren observar, escuchar, y de vez en cuando, preguntar.
+
+Esta imágen sigue viva en los regímenes autoritarios actuales. Sin embargo, si la miramos desde la contemporaneidad, la tención entre estos actores abre otro plano de lectura: un diálogo sobre cómo se construyen, se mantienen y se transforman las tradiciones culturales. Tal vez la pregunta no sea solo quiíen tiene el poder de detener la máquina, sino que significa que siga en funcionamiento cuando su propósito original ya se ha desvanecido.
